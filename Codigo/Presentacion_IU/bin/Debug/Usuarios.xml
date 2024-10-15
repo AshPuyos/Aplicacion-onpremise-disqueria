@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usuarios>
+  <usuario codigo="1">
+    <nombreUsuario>Ayelen</nombreUsuario>
+    <password>XbzVUYSkKkguLd2fdEGRPQr/0SA=</password>
+    <nombre>Ayelen</nombre>
+    <apellido>Puyos</apellido>
+  </usuario>
+  <usuario codigo="2">
+    <nombreUsuario>Milo</nombreUsuario>
+    <password>mo1kh2Y6M6V40cxLuuTgXEFQa2o=</password>
+    <nombre>Miluchi</nombre>
+    <apellido>Puyos</apellido>
+  </usuario>
+</usuarios>

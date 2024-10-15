@@ -1,0 +1,13 @@
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\MPP\bin\Debug\MPP.dll
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\MPP\bin\Debug\MPP.pdb
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\MPP\bin\Debug\Abstraccion.dll
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\MPP\bin\Debug\BE.dll
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\MPP\bin\Debug\DAL.dll
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\MPP\bin\Debug\Abstraccion.pdb
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\MPP\bin\Debug\BE.pdb
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\MPP\bin\Debug\DAL.pdb
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\MPP\obj\Debug\MPP.csproj.AssemblyReference.cache
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\MPP\obj\Debug\MPP.csproj.CoreCompileInputs.cache
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\MPP\obj\Debug\MPP.csproj.CopyComplete
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\MPP\obj\Debug\MPP.dll
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\MPP\obj\Debug\MPP.pdb

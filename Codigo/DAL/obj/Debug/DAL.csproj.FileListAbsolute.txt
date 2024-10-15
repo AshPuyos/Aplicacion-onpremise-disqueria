@@ -1,0 +1,6 @@
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\DAL\bin\Debug\DAL.dll
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\DAL\bin\Debug\DAL.pdb
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\DAL\obj\Debug\DAL.dll
+C:\Users\Ash\Desktop\TP1_INTEGRADOR_LUG\PuyosAyelen_Tp1_LUG\DAL\obj\Debug\DAL.pdb
