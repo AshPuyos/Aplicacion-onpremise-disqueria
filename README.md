@@ -1,6 +1,5 @@
 # Aplicación de Gestión de Ventas para Disquería
 
-## Descripción
 Este proyecto es una aplicación de escritorio desarrollada para una disquería, diseñada para permitir a los empleados registrar la venta de productos, específicamente vinilos y CDs. La aplicación incluye un sistema de gestión de usuarios, donde los empleados pueden iniciar sesión utilizando un usuario y contraseña, con la información de los usuarios almacenada en un archivo XML y las contraseñas encriptadas.
 
 La aplicación también gestiona productos, vendedores, géneros musicales y ventas, almacenando esta información en una base de datos SQL Server. Los empleados pueden realizar operaciones de ABM (Alta, Baja, Modificación) en todas las clases, incluida la de usuarios.
