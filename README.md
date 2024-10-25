@@ -23,6 +23,5 @@ Además, se generan informes visuales que muestran los productos vendidos por ar
 - C# .NET Framework
 - SQL Server
 - XML
-- Entity Framework
 - ADO.NET
 - Gráficos (Charts o ReportViewer)
